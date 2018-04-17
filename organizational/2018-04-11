@@ -1,0 +1,182 @@
+# datasci for scientists club organizational meeting, 2018/04/11
+
+present:
+TH -- tami hutto
+EM -- elyse morin
+DN -- david nicholson
+VS -- varun saravanan
+talked with after:
+SA -- Sena Agezo
+KR -- Kaitlyn Roman
+SP -- Steph Prince
+
+scribe / bad paraphraser: DN
+
+## Meeting discussion
+
+DN:
+what do we need from club? what do we need to grow club?
+scientific computing / computer literacy skills
+skills that can help you land a data science career
+
+TH:
+for growth
+- needs to be a driving force e.g. Virus club organizer that actually asks "why didn't you show up? what can we do better?"
+- need to have meetings / events / topics planned out in months in advance if possible
+- every meeting shouldn't be a bunch of lectures
+- I like the hands on stuff: bringing laptops, working on getting stuff working
+- then advanced students can say I've been helping for 2 years
+
+VS:
+should we pitch it as a coding class? (should this club be more focused on that)
+problem with broad strokes coding class is that you get people w/diff levels of proficiency, it's hard to tailor a class
+If we focused on a class w/a target audience we could eliminate some of those issues
+
+DN:
+class would be one part of plan for data science program that emory will eventually have--this is based on what faculty are planning (with my input ... and yours--please let me know what you think about these things) as they apply for a grant that would support data science curriculum development
+TAs for class would have taken the class previously
+this class would then prepare students for a projects-based course
+students with promising projects from the course would then be eligible for e.g. travel funding to present at conferences
+
+DN:
+aside -- other things I am learning from interviews
+we need familiarity with big O notation, algorithms and data structures stuff
+we need to gather resources
+we need a way to get experience with data we didn't generate
+
+EM:
+these are things we should ask recruiter to discuss when we talk with him:
+what are the things PhD students have to learn to be ready for data science careers
+
+DN:
+so again, what do we what want from an organization? (attempts to summarize last bit)
+
+TH: (doing better job of summarizing)
+computing literacy in science
+career development for people that want to go in that direction
+people that want the careers can help with the computer literacy
+
+VS:
+we don't have the #s right now to put together organization
+
+EM:
+once we submit charter request, how much of a lag time is there?
+between submitting and getting the budget
+
+TH:
+The name should still be inclusive of the club should still be inclusive!
+
+VS:
+I'm still hung up on the class, a general coding class
+I would prefer a full-length course
+TH:
+with you guys teaching it?
+DN:
+concerns from faculty about having it be a full course
+for now while we're still trying to build interest and recruit people I think it's best to have bootcamps/short courses/workshops
+VS:
+there's no enforcement/incentive to complete a short course/bootcamp though
+
+TH:
+to get people on board
+plan for some sort of bootcamp
+make it focused so people have one skill every time they leave
+
+EM:
+do a bootcamp **before** school starts
+can we make it so that there's some end product
+
+TH:
+have one case study so they're used to the data, don't have to adjust to a new data set every time
+
+DN:
+it's not just having an end product, the end product is a start to building your portfolio: having a presence on Github showing that you can use version control, work with data, etc.
+
+TH:
+Yes focus on these kind of things for the club--bootcamps, workshops, hands-on project development
+as far as things as bringing in alumni, Bug Robin Harpack more
+
+for club meetings
+have it focused more on projects
+so that newbies see why we care about this stuff 
+and pick up the lingo
+give it video access, so people can log in
+make one of them on-line montly webinar
+you have to have two people manning the event--Zoom is kind of awesome
+
+DN: so plan is...
+do all the things,
+focus on short bootcamp for just before August
+let's have software carpentry
+https://software-carpentry.org/workshops/
+then have a longer "short course" during fall semester
+that prepares people for a hackathon in spring
+also have monthly meetings but go back to project based
+EM:
+plan for trajectory throughout the year
+so that you keep using it
+e.g. we went to a hack-a-thon
+we'll do it so it builds throughout the year
+hackathon is "capstone"
+
+TH:
+have short course be 7-8 weeks
+record the courses
+post material on Canvas
+it would be smart to use structural design software
+
+also have:
+calendar of events
+alumni mixer
+
+EM:
+have things planned in advance
+so people see you can learn throughout the year
+
+Atlantic article journal club meeting
+https://www.theatlantic.com/science/archive/2018/04/the-scientific-paper-is-obsolete/556676/
+get it out this week so everyone knows
+graduation is the 14th
+couple journal club with people that are going to talk
+these people are gonna talk about these things
+Monday April 30th meeting
+Alex   -- Binder?
+
+EM:
+what about doing a hackathon
+that would be the thing to work towards
+
+TH:
+talk with CS about sponsors?
+they probably have connections with companies already
+
+EM:
+talk with QTM
+
+buy people lunch
+ask people to RSVP
+
+EM:
+talk with public health about sponsors too, since they also run a hackathon
+
+## discussion after
+DN (to SA): what would you like to see in meetings that would get you to attend
+
+SA: do more things that involve everyone, not just Python (R) users
+examples include:
+ways to optimize your code so that it runs faster
+parallel processing
+data pre-processing
+talk about translating from one language to another -- e.g. from Matlab to Python
+Would be interested in being TA for course with lab session
+
+DN: good points, also can talk about things like Jupyter, Jupyterlab, and how they let you be more language agnostic, by using for example Matlab in the same notebook as Python, that way you can focus on tools
+
+-------------------
+
+KR: in TJ Murphy stats course now, strongly feels a lab component is needed with focus on writing code and implementing the statistical concepts described in lecture
+Suggests a dry run of any course, possibly with high school students / undergrads?
+Would be interested in being TA for course with lab session
+
+SP: ECDS might be a good resource for course design?
+http://guides.main.library.emory.edu/c.php?g=572228
